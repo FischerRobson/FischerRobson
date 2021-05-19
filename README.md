@@ -1,6 +1,6 @@
 <br />
 <h3 align="center" >Robson Fischer</h3>
-<p align="center" >FullStack Dev</p>
+<p align="center" >Dev FullStack</p>
 <hr />
 
 <p align="center" >
@@ -29,11 +29,27 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" height="30"/>
+  <img alt="VsCode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/eslint-366?style=for-the-badge&logo=eslint&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Prettier-699?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
-  <img src ="https://img.shields.io/badge/sass-d100b9?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/styled--components-444?style=for-the-badge&logo=styled-components&logoColor=white" height="30"/>
+  <img alt="Eslint" src="https://img.shields.io/badge/eslint-366?style=for-the-badge&logo=eslint&logoColor=white" height="30"/>
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-699?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
+  <img alt="Sass" src ="https://img.shields.io/badge/sass-d100b9?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
+  <img alt="StyledComponents" src="https://img.shields.io/badge/styled--components-444?style=for-the-badge&logo=styled-components&logoColor=white" height="30"/>
 </p>
+
+<hr />
+
+### :telephone_receiver: Contatos: 
+[![Linkedin Badge](https://img.shields.io/badge/-Robson%20Fischer-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-fischer/)](https://www.linkedin.com/in/robson-fischer/) 
+[![Gmail Badge](https://img.shields.io/badge/-fischerrobson@gmail.com-9c0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fischerrobson@gmail.com)](mailto:fischerrobson@gmail.com)
+
+<hr />
+
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=FischerRobson&show_icons=true&theme=dracula" />
+  <br />
+  <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FischerRobson&layout=compact&theme=dracula" />
+</p>
+
+
