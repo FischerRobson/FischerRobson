@@ -6,7 +6,7 @@
 <p align="center" >
 <img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=790b761180a6b49ef2c7dad4e1a7b89b81dd55a59b54e5be&rid=giphy.gif&ct=g" />
 </p>
-
+<hr />
 ### :red_haired_man: Sobre Mim:
 
 - :desktop_computer: &nbsp; Desenvolvedor FullStack Jr;
