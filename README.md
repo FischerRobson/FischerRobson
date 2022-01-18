@@ -12,7 +12,7 @@
 
 - :desktop_computer: &nbsp; Desenvolvedor FullStack Jr;
 - :mortar_board: &nbsp; Estudante de Analise e Desenvolvimento de Sistemas na Universidade Estadual de Campinas (UNICAMP);
-- :telescope: &nbsp; Focado em estudar e aprimorar meus conhecimentos em JavaScript e TypeScript, React, Node.Js e Spring Boot;
+- :telescope: &nbsp; Focado em estudar e aprimorar meus conhecimentos em JavaScript e TypeScript, React, Node.Js, Docker e Kubernetes;
 
 <hr />
 
