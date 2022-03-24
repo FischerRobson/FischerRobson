@@ -1,6 +1,12 @@
 <br />
 <h3 align="center" >Robson Fischer</h3>
 <p align="center" >Dev FullStack</p>
+<div align="center">
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/ibm_logo.png" alt="ibm logo" height="60"/>
+<br/>
+<br/>
+<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b2/UNICAMP_logo.svg/1200px-UNICAMP_logo.svg.png" alt="unicamp logo" height="100" />
+</div>
 <hr />
 
 <p align="center" >
@@ -11,8 +17,8 @@
 ### :red_haired_man: Sobre Mim:
 
 - :desktop_computer: &nbsp; Desenvolvedor FullStack Jr;
-- :mortar_board: &nbsp; Estudante de Analise e Desenvolvimento de Sistemas na Universidade Estadual de Campinas (UNICAMP);
-- :telescope: &nbsp; Focado em estudar e aprimorar meus conhecimentos em JavaScript e TypeScript, React, Node.Js, Docker e Kubernetes;
+- :mortar_board: &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual de Campinas (UNICAMP);
+- :telescope: &nbsp; Focado em estudar e aprimorar meus conhecimentos em JavaScript/TypeScript, React, Next, Node, Docker e Kubernetes;
 
 <hr />
 
