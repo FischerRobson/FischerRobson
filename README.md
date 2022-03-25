@@ -1,12 +1,6 @@
 <br />
 <h3 align="center" >Robson Fischer</h3>
 <p align="center" >Dev FullStack</p>
-<div align="center">
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/ibm_logo.png" alt="ibm logo" height="60"/>
-<br/>
-<br/>
-<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b2/UNICAMP_logo.svg/1200px-UNICAMP_logo.svg.png" alt="unicamp logo" height="100" />
-</div>
 <hr />
 
 <p align="center" >
