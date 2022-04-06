@@ -1,6 +1,9 @@
 <br />
-<h3 align="center" >Robson Fischer</h3>
-<p align="center" >Dev FullStack</p>
+<h3 align="center" >Robson H. Fischer</h3>
+<p align="center" >Application Developer FullStack at</p>
+<p align="center">
+  <img src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo.png" width="240" />
+<p/>
 <hr />
 
 <p align="center" >
@@ -10,13 +13,13 @@
 
 ### :red_haired_man: Sobre Mim:
 
-- :desktop_computer: &nbsp; Desenvolvedor FullStack Jr;
-- :mortar_board: &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estadual de Campinas (UNICAMP);
-- :telescope: &nbsp; Focado em estudar e aprimorar meus conhecimentos em JavaScript/TypeScript, React, Next, Node, Docker e Kubernetes;
+- :desktop_computer: &nbsp; Application Developer Jr;
+- :mortar_board: &nbsp; Systems Analysis and Development student at Universidade Estadual de Campinas (UNICAMP);
+- :telescope: &nbsp; Focus on leaning and impreove my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
 
 <hr />
 
-### :technologist: Tecnologias: 
+### :technologist: Technologies: 
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"/>
@@ -42,7 +45,7 @@
 
 <hr />
 
-### :telephone_receiver: Contatos: 
+### :telephone_receiver: Contacts: 
 [![Linkedin Badge](https://img.shields.io/badge/-Robson%20Fischer-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-fischer/)](https://www.linkedin.com/in/robson-fischer/) 
 [![Gmail Badge](https://img.shields.io/badge/-fischerrobson@gmail.com-9c0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fischerrobson@gmail.com)](mailto:fischerrobson@gmail.com)
 
