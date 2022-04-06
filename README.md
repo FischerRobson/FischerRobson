@@ -11,11 +11,11 @@
 </p>
 <hr />
 
-### :red_haired_man: Sobre Mim:
+### :red_haired_man: About Me:
 
 - :desktop_computer: &nbsp; Application Developer Jr;
 - :mortar_board: &nbsp; Systems Analysis and Development student at Universidade Estadual de Campinas (UNICAMP);
-- :telescope: &nbsp; Focus on leaning and impreove my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
+- :telescope: &nbsp; Focus on leaning and improve my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
 
 <hr />
 
