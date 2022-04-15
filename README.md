@@ -1,8 +1,8 @@
 <br />
 <h3 align="center" >Robson H. Fischer</h3>
-<p align="center" >Application Developer FullStack at</p>
+<p align="center" >Application Developer Cloud FullStack at</p>
 <p align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo.png" width="240" />
+  <img src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo.png" width="190" />
 <p/>
 <hr />
 
