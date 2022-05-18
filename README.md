@@ -1,6 +1,8 @@
-<br />
-<h3 align="center" >Robson H. Fischer</h3>
-<p align="center" >Application Developer Cloud FullStack at</p>
+
+<div align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&lines=Hi%2C+i'm+Robson+Fischer" />
+</div>
+<p align="center" >Application Developer Cloud FullStack at
 <p align="center">
   <img src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo.png" width="190" />
 <p/>
@@ -63,11 +65,11 @@
   <a href="mailto:fischerrobson@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/fischerrobson"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/fischer_robson"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="instagram"/></a>
+  <img src="https://dcbadge.vercel.app/api/shield/325048914661212162?style=flat" />
 </div>
 <hr />
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=FischerRobson&show_icons=true&theme=dracula" />
-  <br />
   <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FischerRobson&layout=compact&theme=dracula" />
 </p>
