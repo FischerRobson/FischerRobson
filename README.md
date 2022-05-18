@@ -7,48 +7,65 @@
 <hr />
 
 <p align="center" >
-<img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=790b761180a6b49ef2c7dad4e1a7b89b81dd55a59b54e5be&rid=giphy.gif&ct=g" />
+  <img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=790b761180a6b49ef2c7dad4e1a7b89b81dd55a59b54e5be&rid=giphy.gif&ct=g" />
 </p>
 <hr />
 
 ### :red_haired_man: About Me:
 
+<div align="center"></div>
+
 - :desktop_computer: &nbsp; Application Developer: Cloud Fullstack;
 - :mortar_board: &nbsp; Systems Analysis and Development student at Universidade Estadual de Campinas (UNICAMP);
 - :telescope: &nbsp; Focus on learning and improve my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ebbk2ipti2nu4bqea43qzny&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <hr />
 
 ### :technologist: Technologies: 
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB" height="30"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height="30"/>
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" height="30"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-007ACC.svg?&style=for-the-badge&logo=docker&logoColor=white" height="30" />
-</p>
+ 
+  Languages
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+  Front End
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  
+  Back End
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
-<p align="left">
-  <img alt="VsCode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30" />
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" height="30"/>
-  <img alt="Eslint" src="https://img.shields.io/badge/eslint-366?style=for-the-badge&logo=eslint&logoColor=white" height="30"/>
-  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-699?style=for-the-badge&logo=prettier&logoColor=white" height="30"/>
-  <img alt="Sass" src ="https://img.shields.io/badge/sass-d100b9?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
-  <img alt="StyledComponents" src="https://img.shields.io/badge/styled--components-444?style=for-the-badge&logo=styled-components&logoColor=white" height="30"/>
-</p>
+  Testing
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  
+  DevOps
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+  
+  Database
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  
 
 <hr />
 
 ### :telephone_receiver: Contacts: 
-[![Linkedin Badge](https://img.shields.io/badge/-Robson%20Fischer-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-fischer/)](https://www.linkedin.com/in/robson-fischer/) 
-[![Gmail Badge](https://img.shields.io/badge/-fischerrobson@gmail.com-9c0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fischerrobson@gmail.com)](mailto:fischerrobson@gmail.com)
-
+<div align="left">
+  <a href="mailto:fischerrobson@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/fischerrobson"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/fischer_robson"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="instagram"/></a>
+</div>
 <hr />
 
 <p align="center">
@@ -56,5 +73,3 @@
   <br />
   <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FischerRobson&layout=compact&theme=dracula" />
 </p>
-
-
