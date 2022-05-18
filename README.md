@@ -7,7 +7,7 @@
 <hr />
 
 <p align="center" >
-  <img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=790b761180a6b49ef2c7dad4e1a7b89b81dd55a59b54e5be&rid=giphy.gif&ct=g" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ebbk2ipti2nu4bqea43qzny&cover_image=true&theme=default" />
 </p>
 <hr />
 
@@ -18,8 +18,6 @@
 - :desktop_computer: &nbsp; Application Developer: Cloud Fullstack;
 - :mortar_board: &nbsp; Systems Analysis and Development student at Universidade Estadual de Campinas (UNICAMP);
 - :telescope: &nbsp; Focus on learning and improve my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ebbk2ipti2nu4bqea43qzny&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <hr />
 
