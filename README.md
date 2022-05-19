@@ -63,7 +63,7 @@
 ### :telephone_receiver: Contacts: 
 <div align="left">
   <a href="mailto:fischerrobson@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/fischerrobson"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/fischer-robson"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/fischer_robson"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="instagram"/></a>
   <img src="https://dcbadge.vercel.app/api/shield/325048914661212162?style=flat" />
 </div>
