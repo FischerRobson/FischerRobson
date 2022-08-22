@@ -98,7 +98,8 @@
 </div>
 <hr />
 
-<p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=FischerRobson&show_icons=true&theme=dracula" />
-  <img alt="Most used techs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FischerRobson&layout=compact&theme=dracula" />
-</p>
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FischerRobson&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
