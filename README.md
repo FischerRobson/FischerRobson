@@ -21,7 +21,7 @@
 - :mortar_board: &nbsp; Systems Analysis and Development student at Universidade Estadual de Campinas (UNICAMP);
 - :telescope: &nbsp; Focus on learning and improve my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
 - <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /><a href="https://www.credly.com/badges/2f94ac8f-da99-47ca-a118-aba9de814f8a?source=linked_in_profile">
-  AWS Certified Cloud Praticioner
+  AWS Certified Cloud Practitioner
   </a>
 
 <hr />
