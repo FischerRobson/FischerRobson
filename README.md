@@ -19,7 +19,7 @@
 
 - :desktop_computer: &nbsp; Fullstack WEB Developer;
 - :mortar_board: &nbsp; Student at Universidade Estadual de Campinas (UNICAMP);
-- :telescope: &nbsp; Focus on learning and improve my skills in JavaScript/TypeScript, React, Next, Node, Docker and Kubernetes;
+- :telescope: &nbsp; Focus on learning and improve my skills in TypeScript, Java, React, Next, Node, Cloud;
 - <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /><a href="https://www.credly.com/badges/2f94ac8f-da99-47ca-a118-aba9de814f8a?source=linked_in_profile">
   AWS Certified Cloud Practitioner
   </a>
