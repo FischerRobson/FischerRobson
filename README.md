@@ -2,10 +2,7 @@
 <div align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&lines=Hi%2C+i'm+Robson+Fischer" />
 </div>
-<p align="center" >Application Developer Cloud FullStack at
-<p align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo.png" width="190" />
-<p/>
+<p align="center" >Application Developer Cloud FullStack at IBM
 <hr />
 
 <p align="center" >
@@ -17,9 +14,9 @@
 
 <div align="center"></div>
 
-- :desktop_computer: &nbsp; Fullstack WEB Developer;
-- :mortar_board: &nbsp; Student at Universidade Estadual de Campinas (UNICAMP);
-- :telescope: &nbsp; Focus on learning and improve my skills in TypeScript, Java, React, Next, Node, Cloud;
+- :desktop_computer: &nbsp; Fullstack Web Developer for 4+ years of experience;
+- :mortar_board: &nbsp; Gratuated in Analysis and Systems Development - Universidade Estadual de Campinas (UNICAMP);
+- :telescope: &nbsp; I'm constantly seeking new challenges to broaden my expertise and improve my problem-solving skills while i'm having fun;
 - <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /><a href="https://www.credly.com/badges/2f94ac8f-da99-47ca-a118-aba9de814f8a?source=linked_in_profile">
   AWS Certified Cloud Practitioner
   </a>
