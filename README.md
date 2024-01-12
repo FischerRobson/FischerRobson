@@ -23,6 +23,15 @@
 
 <hr />
 
+### 🤖: Check my GPTs: 
+
+[Song Scout](https://chat.openai.com/g/g-El4rR0CIj-song-scout)
+[History Teacher](https://chat.openai.com/g/g-HOWROfFZb-history-teacher)
+[Javascript Guru](https://chat.openai.com/g/g-TvxBWBw20-javascript-guru)
+[Nilliam GPT](https://chat.openai.com/g/g-a9zV7WYqU-nilliam-gpt)
+
+<hr />
+
 ### :technologist: Technologies: 
  
   Languages
