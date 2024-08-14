@@ -33,9 +33,9 @@
 
 <hr />
 
-<p align="center" >
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ebbk2ipti2nu4bqea43qzny&cover_image=true&theme=default" />
-</p>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=22ebbk2ipti2nu4bqea43qzny">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22ebbk2ipti2nu4bqea43qzny" alt="Data Card for Spotify">
+</a>
 <hr />
 
 
