@@ -2,11 +2,11 @@
 <div align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&lines=Hi%2C+i'm+Robson+Fischer" />
 </div>
-<p align="center" >Application Developer Cloud FullStack
+<p align="center" >Software Engineer
 <hr />
 
-- Fullstack Web Developer with 4+ years of experience;
-- Gratuated in Analysis and Systems Development - Universidade Estadual de Campinas (UNICAMP);
+- Fullstack Software Engineer with 4+ years of experience;
+- Gratuated in Compute Science - Universidade Estadual de Campinas (UNICAMP);
 -  I'm constantly seeking new challenges to broaden my expertise and improve my problem-solving skills while i'm having fun;
 - <a href="https://www.credly.com/badges/2f94ac8f-da99-47ca-a118-aba9de814f8a?source=linked_in_profile">
   AWS Certified Cloud Practitioner
